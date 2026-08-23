@@ -1,0 +1,610 @@
+                                                                              GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
+                                                                                          *An Autonomous College Under UGC Act - 1956 [2(f) and 12(B)]
+                                                                                                      Affiliated to I.K. Gujral Punjab Technical University
+
+                                                         Course: B.Tech. Branch: Mechanical Engineering Semester: 1 Scheme Code: 2018 Result Type: Regular
+
+                                                        Notification No. GNDEC/B.Tech./Reg/2241007 Dated: 07-02-2024 Examination Held in: November, 2023
+                                                                                         Sub Code (Th.)            Sub Code (Pr.)         Sub Code (Th.)             Sub Code (Th.)              Sub Code (Pr.)           Sub Code (Th.)            Sub Code (Th.)
+  Sr.          University                        Name of Candidate/                                                                                                                                                                                                                            Credits,
+                                                                                         BSC-101 (15925)          BSC-102 (15926)         BSC-103 (15927)            ESC-101 (15929)            ESC-102 (15930)           ESC-103 (15931)          HSMC-103 (15928)            SGPA**
+  No.           Roll No.                           Father's Name                                                                                                                                                                                                                              (Earned)
+                                                                                           Credit(s) - 4            Credit(s) - 1           Credit(s) - 4              Credit(s) - 4              Credit(s) - 1             Credit(s) - 3            Credit(s) - 3
+                             AARAV SANDHU/
+   1    2303095                                                                                   A                      O                      B+                          B+                         A                         B+                      B+              7.4             20
+                             INDERJIT SINGH
+                             ADITYA/
+   2    2303096                                                                                   B                      A                      B                            B                         A                          B                       A              6.5             20
+                             RAM AWADH YADAV
+                             AKASHDEEP RATTU/
+   3    2303097                                                                                   B                      A                    F(Ext.)                    F(Ext.)                       A                          C                    F(Ext.)                           9
+                             VARINDERJEET SINGH
+                             AKSHIT ARORA/
+   4    2303098                                                                                   A                      A+                     A+                          A                          A                          A                      B+              8.1             20
+                             KULWINDER KUMAR
+                             AMAN KALSOTRA/
+   5    2303099                                                                                   B+                     A+                     B                            B                        A+                         B+                       A              6.95            20
+                             SUNIL KUMAR
+                             AMANDEEP SINGH SAGGU/
+   6    2303100                                                                                   B                      A+                   F(Ext.)                    F(Ext.)                      A+                          B                    F(Ext.)                           9
+                             MANDEEP SINGH SAGGU
+                             AMARJEET KUMAR/
+   7    2303101                                                                                   Ab                     Ab                   F(Ext.)                        F                        Ab                        F(Ext.)                F(Ext.)                           0
+                             MITHLESH BHAGAT
+                             AMARJOT SINGH/
+   8    2303102                                                                                   Ab                     A                      B                        F(Ext.)                       P                          F                       C                              9
+                             SUPINDER SINGH
+                             ANGAD SINGH/
+   9    2303103                                                                                   P                      B                      B                            B                         B                        F(Ext.)                   B                              17
+                             SARBJOT SINGH
+                             ANJALI KUMARI/
+  10    2303104                                                                                   A                      O                      B                            B                        A+                          B                      A+              7.2             20
+                             NARESH KUMAR
+                             ANMOL SHARMA/
+  11    2303105                                                                              F(Ext.)                     B                    F(Ext.)                    F(Ext.)                      B+                        F(Ext.)                F(Ext.)                           2
+                             ASHOK KUMAR
+ Prepared by                                                                                                                                                Ordinance & Scheme seen, the result may be declared and published                                     Published
+
+
+
+
+ Assistant Registrar (Examination Branch)                                    Verified by Member, Examination Committee                                                      Member, Examination Committee                                                 Controller of Examinations
+
+                                                                                                                                                                                                                                                                        Seal
+
+Grade                   O                   A+           A            B+      B               C            P                    F(Int.)                 F(Ext.)                      F                                I                   Ab       E             UMC            S/US
+Qualitative                                              Very                 Above                                             Failed in Internal      Failed in External           Failed in Both Internal and                                                 Unfair         Satisfactory/Not-
+                        Outstanding         Excellent                 Good                    Average      Marginal/Pass                                                                                              Incomplete          Absent   Detained
+Meaning                                                  Good                 Average                                           Examination             Examination                  External Examination                                                        Mean Case      Satisfactory
+Grade Point             10                  9            8            7       6               5            4                    0                       0                            0                                -                   -        0             -              -
+
+*Vide UGC Letter No.F.22-1/2012(AC) dated 17.08.2012
+**The computation of SGPA is done according to the guidelines given by IKGPTU, Jalandhar regarding Credit Based System and these guidelines are available at www.ptu.ac.in
+Page: 1 of 10
+                                                                              GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
+                                                                                          *An Autonomous College Under UGC Act - 1956 [2(f) and 12(B)]
+                                                                                                  Affiliated to I.K. Gujral Punjab Technical University
+
+                                                           Course: B.Tech. Branch: Mechanical Engineering Semester: 1 Scheme Code: 2018 Result Type: Regular
+
+                                                         Notification No. GNDEC/B.Tech./Reg/2241007 Dated: 07-02-2024 Examination Held in: November, 2023
+                                                                                                    Sub Code (Th.)          Sub Code (Pr.)          Sub Code (Th.)          Sub Code (Th.)           Sub Code (Pr.)            Sub Code (Th.)          Sub Code (Th.)
+  Sr.          University                               Name of Candidate/                                                                                                                                                                                                                         Credits,
+                                                                                                    BSC-101 (15925)        BSC-102 (15926)          BSC-103 (15927)         ESC-101 (15929)         ESC-102 (15930)            ESC-103 (15931)        HSMC-103 (15928)            SGPA**
+  No.           Roll No.                                  Father's Name                                                                                                                                                                                                                           (Earned)
+                                                                                                      Credit(s) - 4          Credit(s) - 1            Credit(s) - 4           Credit(s) - 4           Credit(s) - 1              Credit(s) - 3          Credit(s) - 3
+                                 ARMAANDEEP SINGH BAGRI/
+  12    2303106                                                                                            B                    B+                     F(Ext.)                  F(Ext.)                   B+                         F                    F(Ext.)                            6
+                                 AMARDEEP SINGH BAGRI
+                                 ARSHDEEP SINGH/
+  13    2303107                                                                                           B+                       O                      B                        B                       O                        A+                      B+              7.2              20
+                                 JAGROOP SINGH
+                                 ARSHPREET SINGH/
+  14    2303108                                                                                         F(Ext.)                 A+                     F(Ext.)                  F(Ext.)                   A+                      F(Ext.)                 F(Ext.)                            2
+                                 KANWALJIT SINGH
+                                 ARVIND BHATIA/
+  15    2303109                                                                                            B                       A                      B                        B                      B+                         P                      B+              6                20
+                                 SURINDERJIT
+                                 ASHWANI KUMAR/
+  16    2303110                                                                                         F(Ext.)                    A                   F(Ext.)                  F(Ext.)                   B+                         F                    F(Ext.)                            2
+                                 ARVIND KUMAR
+                                 BALDEV SINGH/
+  17    2303111                                                                                            B                       A                   F(Ext.)                  F(Ext.)                    P                         P                       B                               12
+                                 BAWINDER SINGH
+                                 CHAHATPREET SINGH/
+  18    2303112                                                                                         F(Ext.)                    A                   F(Ext.)                  F(Ext.)                    A                      F(Ext.)                    B                               5
+                                 JAGDEEP SINGH
+                                 DEBASISH MAHATA/
+  19    2303113                                                                                           A+                       O                     A+                       B+                       O                        A+                      A+              8.7              20
+                                 CHANDAN KUMAR MAHATA
+                                 DEV DAYAL PATRO/
+  20    2303114                                                                                         F(Ext.)                 B+                     F(Ext.)                  F(Ext.)                   A+                      F(Ext.)                 F(Ext.)                            2
+                                 SEMUAL PATRO
+                                 FATEHDEEP SINGH BINDRA/
+  21    2303115                                                                                            C                    A+                     F(Ext.)                  F(Ext.)                   A+                      F(Ext.)                    B                               9
+                                 HARKANWARPREET SINGH BINDRA
+                                 GAGANPREET SINGH/
+  22    2303116                                                                                           B+                       O                     B+                        B                      A+                      F(Ext.)                 F(Ext.)                            14
+                                 DARSHAN SINGH
+ Prepared by                                                                                                                                               Ordinance & Scheme seen, the result may be declared and published                                        Published
+
+
+
+
+ Assistant Registrar (Examination Branch)                                    Verified by Member, Examination Committee                                                     Member, Examination Committee                                                   Controller of Examinations
+
+                                                                                                                                                                                                                                                                          Seal
+
+Grade                       O               A+             A          B+      B               C            P                   F(Int.)                    F(Ext.)                   F                                 I                  Ab       E                 UMC            S/US
+Qualitative                                                Very               Above                                            Failed in Internal         Failed in External        Failed in Both Internal and                                                     Unfair         Satisfactory/Not-
+                            Outstanding     Excellent                 Good                    Average      Marginal/Pass                                                                                              Incomplete         Absent   Detained
+Meaning                                                    Good               Average                                          Examination                Examination               External Examination                                                            Mean Case      Satisfactory
+Grade Point                 10              9              8          7       6               5            4                   0                          0                         0                                 -                  -        0                 -              -
+
+*Vide UGC Letter No.F.22-1/2012(AC) dated 17.08.2012
+**The computation of SGPA is done according to the guidelines given by IKGPTU, Jalandhar regarding Credit Based System and these guidelines are available at www.ptu.ac.in
+Page: 2 of 10
+                                                                              GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
+                                                                                          *An Autonomous College Under UGC Act - 1956 [2(f) and 12(B)]
+                                                                                                   Affiliated to I.K. Gujral Punjab Technical University
+
+                                                          Course: B.Tech. Branch: Mechanical Engineering Semester: 1 Scheme Code: 2018 Result Type: Regular
+
+                                                        Notification No. GNDEC/B.Tech./Reg/2241007 Dated: 07-02-2024 Examination Held in: November, 2023
+                                                                                        Sub Code (Th.)            Sub Code (Pr.)             Sub Code (Th.)              Sub Code (Th.)             Sub Code (Pr.)           Sub Code (Th.)            Sub Code (Th.)
+  Sr.          University                        Name of Candidate/                                                                                                                                                                                                                                Credits,
+                                                                                        BSC-101 (15925)          BSC-102 (15926)             BSC-103 (15927)             ESC-101 (15929)           ESC-102 (15930)           ESC-103 (15931)          HSMC-103 (15928)            SGPA**
+  No.           Roll No.                           Father's Name                                                                                                                                                                                                                                  (Earned)
+                                                                                          Credit(s) - 4            Credit(s) - 1               Credit(s) - 4               Credit(s) - 4             Credit(s) - 1             Credit(s) - 3            Credit(s) - 3
+                              GAURAV KUMAR SAH/
+  23    2303117                                                                             F(Ext.)                      B+                     F(Ext.)                     F(Ext.)                       P                          F                    F(Ext.)                            2
+                              SANJEET KUMAR SAH
+                              GURINDER SINGH/
+  24    2303118                                                                                C                         A                       F(Int.)                    F(Ext.)                      A                           B                       P                               12
+                              HARDEEP SINGH
+                              GURJIT SINGH/
+  25    2303119                                                                                A                         A+                        B                          B+                         O                           A                      B+              7.4              20
+                              AMARJIT SINGH
+                              GURJOT SINGH/
+  26    2303120                                                                             F(Ext.)                      C                         E                        F(Ext.)                      Ab                          F                    F(Ext.)                            1
+                              AMANDEEP SINGH
+                              GURKIRAT SINGH/
+  27    2303121                                                                             F(Ext.)                      B+                        F                        F(Ext.)                      A+                        F(Ext.)                  Ab                               2
+                              APRINDER SINGH
+                              GURMEET/
+  28    2303122                                                                                B                         B+                        B                          B+                         A+                         B+                       B              6.55             20
+                              BANT SINGH
+                              GURNOOR KAUR/
+  29    2303123                                                                               B+                         A                      F(Ext.)                        B                         A                          B+                       B                               16
+                              BALJIT SINGH UPPAL
+                              GURPREET SINGH/
+  30    2303124                                                                                C                         B+                        B                           B                         A                           C                       B              5.8              20
+                              MAKHAN SINGH
+                              HARMANPREET SINGH/
+  31    2303125                                                                             F(Ext.)                      B+                     F(Ext.)                     F(Ext.)                      A                         F(Ext.)                F(Ext.)                            2
+                              AVTAR SINGH
+                              HARSH VERMA/
+  32    2303126                                                                               B+                         B                         B                           B                         A+                          B                      B+              6.5              20
+                              LATE DAVINDER KUMAR
+                              HARSHPREET SINGH/
+  33    2303127                                                                             F(Ext.)                      A                      F(Ext.)                     F(Ext.)                      A                         F(Ext.)                F(Ext.)                            2
+                              GURPREET SINGH
+ Prepared by                                                                                                                                                   Ordinance & Scheme seen, the result may be declared and published                                     Published
+
+
+
+
+ Assistant Registrar (Examination Branch)                                    Verified by Member, Examination Committee                                                         Member, Examination Committee                                                 Controller of Examinations
+
+                                                                                                                                                                                                                                                                           Seal
+
+Grade                   O                   A+            A           B+      B               C            P                       F(Int.)                     F(Ext.)                     F                             I                   Ab       E             UMC             S/US
+Qualitative                                               Very                Above                                                Failed in Internal          Failed in External          Failed in Both Internal and                                              Unfair          Satisfactory/Not-
+                        Outstanding         Excellent                 Good                    Average      Marginal/Pass                                                                                                 Incomplete          Absent   Detained
+Meaning                                                   Good                Average                                              Examination                 Examination                 External Examination                                                     Mean Case       Satisfactory
+Grade Point             10                  9             8           7       6               5            4                       0                           0                           0                             -                   -        0             -               -
+
+*Vide UGC Letter No.F.22-1/2012(AC) dated 17.08.2012
+**The computation of SGPA is done according to the guidelines given by IKGPTU, Jalandhar regarding Credit Based System and these guidelines are available at www.ptu.ac.in
+Page: 3 of 10
+                                                                             GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
+                                                                                         *An Autonomous College Under UGC Act - 1956 [2(f) and 12(B)]
+                                                                                                  Affiliated to I.K. Gujral Punjab Technical University
+
+                                                          Course: B.Tech. Branch: Mechanical Engineering Semester: 1 Scheme Code: 2018 Result Type: Regular
+
+                                                        Notification No. GNDEC/B.Tech./Reg/2241007 Dated: 07-02-2024 Examination Held in: November, 2023
+                                                                                   Sub Code (Th.)              Sub Code (Pr.)         Sub Code (Th.)          Sub Code (Th.)              Sub Code (Pr.)              Sub Code (Th.)              Sub Code (Th.)
+  Sr.          University                       Name of Candidate/                                                                                                                                                                                                                             Credits,
+                                                                                   BSC-101 (15925)            BSC-102 (15926)         BSC-103 (15927)         ESC-101 (15929)            ESC-102 (15930)              ESC-103 (15931)            HSMC-103 (15928)             SGPA**
+  No.           Roll No.                          Father's Name                                                                                                                                                                                                                               (Earned)
+                                                                                     Credit(s) - 4              Credit(s) - 1           Credit(s) - 4           Credit(s) - 4              Credit(s) - 1                Credit(s) - 3              Credit(s) - 3
+                              HARSHPREET SINGH/
+  34    2303128                                                                        F(Ext.)                      B                        F                       F                          A                        F(Ext.)                      F(Ext.)                            2
+                              AMRIK SINGH
+                              IMAAN SINGH MANN/
+  35    2303129                                                                          Ab                        Ab                       Ab                      Ab                         Ab                           Ab                        F(Ext.)                            0
+                              LAKHWINDER SINGH
+                              ISHWINDER SINGH/
+  36    2303130                                                                           C                        B+                        B                    F(Ext.)                       A                           B                         F(Ext.)                            13
+                              ARVINDER SINGH
+                              JAGTAR SINGH/
+  37    2303132                                                                        F(Ext.)                      B                        F                    F(Ext.)                      A+                           F                         F(Ext.)                            2
+                              NIRMAL SINGH
+                              JAIVEER SINGH/
+  38    2303133                                                                        F(Ext.)                      A                       B+                    F(Ext.)                       A                           P                         F(Ext.)                            9
+                              SAMARJEET SINGH
+                              JAPNEESH SINGH/
+  39    2303134                                                                          B+                        A+                     F(Ext.)                    B                          A                           A+                          A                                16
+                              NAVNEET SINGH
+                              JASHANPREET SINGH/
+  40    2303135                                                                        F(Ext.)                      B                        F                      Ab                          B                           Ab                        F(Ext.)                            2
+                              NIRMAL SINGH
+                              JASKARAN SINGH/
+  41    2303136                                                                        F(Ext.)                      A                     F(Ext.)                 F(Ext.)                       A                           B+                        F(Ext.)                            5
+                              BALWINDER SINGH
+                              JASKARAN SINGH/
+  42    2303137                                                                           C                         B                        B                       B                         B+                           C                         F(Ext.)                            17
+                              JAIPAL SINGH
+                              JASVIR SINGH/
+  43    2303139                                                                           A                        A+                       A                        B                         A+                           A+                         B+              7.7               20
+                              KULWINDER SINGH
+                              JATIN SINGH/
+  44    2303140                                                                           A                         A                       B+                      B+                          A                           B+                         A+              7.6               20
+                              HIRA SINGH
+ Prepared by                                                                                                                                            Ordinance & Scheme seen, the result may be declared and published                                        Published
+
+
+
+
+ Assistant Registrar (Examination Branch)                                   Verified by Member, Examination Committee                                                    Member, Examination Committee                                                   Controller of Examinations
+
+                                                                                                                                                                                                                                                                       Seal
+
+Grade                  O                    A+             A         B+      B                C           P                     F(Int.)                 F(Ext.)                  F                                I                     Ab        E             UMC             S/US
+Qualitative                                                Very              Above                                              Failed in Internal      Failed in External       Failed in Both Internal and                                                    Unfair          Satisfactory/Not-
+                       Outstanding          Excellent                Good                     Average     Marginal/Pass                                                                                           Incomplete            Absent    Detained
+Meaning                                                    Good              Average                                            Examination             Examination              External Examination                                                           Mean Case       Satisfactory
+Grade Point            10                   9              8         7       6                5           4                     0                       0                        0                                -                     -         0             -               -
+
+*Vide UGC Letter No.F.22-1/2012(AC) dated 17.08.2012
+**The computation of SGPA is done according to the guidelines given by IKGPTU, Jalandhar regarding Credit Based System and these guidelines are available at www.ptu.ac.in
+Page: 4 of 10
+                                                                             GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
+                                                                                         *An Autonomous College Under UGC Act - 1956 [2(f) and 12(B)]
+                                                                                                   Affiliated to I.K. Gujral Punjab Technical University
+
+                                                         Course: B.Tech. Branch: Mechanical Engineering Semester: 1 Scheme Code: 2018 Result Type: Regular
+
+                                                        Notification No. GNDEC/B.Tech./Reg/2241007 Dated: 07-02-2024 Examination Held in: November, 2023
+                                                                                                 Sub Code (Th.)          Sub Code (Pr.)          Sub Code (Th.)            Sub Code (Th.)            Sub Code (Pr.)          Sub Code (Th.)          Sub Code (Th.)
+  Sr.          University                           Name of Candidate/                                                                                                                                                                                                                           Credits,
+                                                                                                 BSC-101 (15925)        BSC-102 (15926)          BSC-103 (15927)           ESC-101 (15929)          ESC-102 (15930)          ESC-103 (15931)        HSMC-103 (15928)            SGPA**
+  No.           Roll No.                              Father's Name                                                                                                                                                                                                                             (Earned)
+                                                                                                   Credit(s) - 4          Credit(s) - 1            Credit(s) - 4             Credit(s) - 4            Credit(s) - 1            Credit(s) - 3          Credit(s) - 3
+                             KARANVEER SINGH/
+  45    2303141                                                                                     F(Ext.)                   A                        F(Ext.)                 F(Ext.)                     A                      B+                       B                               8
+                             PARMINDER SINGH
+                             KARANVEER SINGH MANKOO/
+  46    2303142                                                                                        B                      A                        F(Ext.)                 F(Ext.)                     A                        B                   F(Ext.)                            9
+                             HARPREET SINGH MANKOO
+                             KARMANJIT SINGH/
+  47    2303143                                                                                     F(Ext.)                  B+                        F(Ext.)                 F(Ext.)                    B+                        B                   F(Ext.)                            5
+                             MANJIT SINGH
+                             KHUSHKARANDEEP SINGH/
+  48    2303144                                                                                     F(Ext.)                   B                        F(Ext.)                 F(Ext.)                    A+                        B                   F(Ext.)                            5
+                             KEWAL SINGH
+                             KRISH MAHAJAN/
+  49    2303145                                                                                        A                     A+                         B+                        B+                      A+                      A+                       A              7.85             20
+                             DHEERAJ MAHAJAN
+                             KRISHNA BARUA/
+  50    2303146                                                                                     F(Ext.)                   A                        F(Ext.)                 F(Ext.)                    A+                     F(Ext.)                F(Ext.)                            2
+                             RUPINDER KUMAR
+                             KULDEEP SINGH/
+  51    2303147                                                                                        A                      O                          A                        B+                      A+                        A                     B+              7.8              20
+                             ASHOK KUMAR SINGH
+                             LOVEDEEP/
+  52    2303148                                                                                     F(Ext.)                   A                          F                     F(Ext.)                     A                     F(Ext.)                F(Ext.)                            2
+                             KAMAL RAJ
+                             MADHAV THAKUR/
+  53    2303149                                                                                        B                     A+                          F                     F(Ext.)                     A                     F(Ext.)                   B                               9
+                             RAGHUNATH THAKUR
+                             MANDEEP SINGH/
+  54    2303150                                                                                     F(Ext.)                  Ab                          F                        Ab                      Ab                       Ab                   F(Ext.)                            0
+                             JAGTAR SINGH
+                             MANINDER SINGH/
+  55    2303151                                                                                     F(Ext.)                  B+                        F(Ext.)                 F(Ext.)                     A                     F(Ext.)                F(Ext.)                            2
+                             HARDEV SINGH
+ Prepared by                                                                                                                                                 Ordinance & Scheme seen, the result may be declared and published                                    Published
+
+
+
+
+ Assistant Registrar (Examination Branch)                                   Verified by Member, Examination Committee                                                        Member, Examination Committee                                                Controller of Examinations
+
+                                                                                                                                                                                                                                                                        Seal
+
+Grade                   O                   A+           A           B+      B               C              P                     F(Int.)                    F(Ext.)                   F                               I                   Ab       E             UMC            S/US
+Qualitative                                              Very                Above                                                Failed in Internal         Failed in External        Failed in Both Internal and                                                Unfair         Satisfactory/Not-
+                        Outstanding         Excellent                Good                    Average        Marginal/Pass                                                                                              Incomplete          Absent   Detained
+Meaning                                                  Good                Average                                              Examination                Examination               External Examination                                                       Mean Case      Satisfactory
+Grade Point             10                  9            8           7       6               5              4                     0                          0                         0                               -                   -        0             -              -
+
+*Vide UGC Letter No.F.22-1/2012(AC) dated 17.08.2012
+**The computation of SGPA is done according to the guidelines given by IKGPTU, Jalandhar regarding Credit Based System and these guidelines are available at www.ptu.ac.in
+Page: 5 of 10
+                                                                              GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
+                                                                                          *An Autonomous College Under UGC Act - 1956 [2(f) and 12(B)]
+                                                                                                   Affiliated to I.K. Gujral Punjab Technical University
+
+                                                         Course: B.Tech. Branch: Mechanical Engineering Semester: 1 Scheme Code: 2018 Result Type: Regular
+
+                                                        Notification No. GNDEC/B.Tech./Reg/2241007 Dated: 07-02-2024 Examination Held in: November, 2023
+                                                                                          Sub Code (Th.)            Sub Code (Pr.)         Sub Code (Th.)          Sub Code (Th.)             Sub Code (Pr.)           Sub Code (Th.)            Sub Code (Th.)
+  Sr.          University                        Name of Candidate/                                                                                                                                                                                                                         Credits,
+                                                                                          BSC-101 (15925)          BSC-102 (15926)         BSC-103 (15927)         ESC-101 (15929)           ESC-102 (15930)           ESC-103 (15931)          HSMC-103 (15928)            SGPA**
+  No.           Roll No.                           Father's Name                                                                                                                                                                                                                           (Earned)
+                                                                                            Credit(s) - 4            Credit(s) - 1           Credit(s) - 4           Credit(s) - 4             Credit(s) - 1             Credit(s) - 3            Credit(s) - 3
+                             MANINDERJEET SINGH/
+  56    2303152                                                                                   O                      O                      A+                        A                         O                         A+                      A+              9.1             20
+                             HARVINDER SINGH SAUND
+                             MANJOT SINGH/
+  57    2303154                                                                                   B+                     A                       A                        B                        A+                         B+                       B              7               20
+                             SANDEEP SINGH
+                             MANMEET SINGH SALUJA/
+  58    2303155                                                                                   B                      A                       B                        C                        A+                          B                    F(Ext.)                           17
+                             TARANDEEP SINGH SALUJA
+                             MANMOHAN SINGH/
+  59    2303156                                                                                   B+                     A+                      B                       B+                        A+                          C                      B+              6.7             20
+                             DILBAG SINGH
+                             MANRAJ SINGH/
+  60    2303157                                                                                   B+                     A+                      B                       B+                        A+                          A                       B              7               20
+                             GURPREET SINGH
+                             MANREET KAUR/
+  61    2303158                                                                                   Ab                     Ab                      Ab                      Ab                        Ab                          Ab                     Ab                              0
+                             AMRITPAL SINGH
+                             MANVEER SINGH/
+  62    2303159                                                                                   A                      O                       B+                       A                         O                          O                       A              8.3             20
+                             JASPREET SINGH
+                             MANVEER SINGH/
+  63    2303160                                                                               F(Ext.)                    B                    F(Ext.)                     E                         E                        F(Ext.)                F(Ext.)                           1
+                             JAGTAR SINGH
+                             MANWINDER SINGH/
+  64    2303161                                                                                   B                      A                    F(Ext.)                  F(Ext.)                     A+                          F                    F(Ext.)                           6
+                             INDERJEET SINGH
+                             MOHITPREET SINGH/
+  65    2303162                                                                               F(Ext.)                    B                       F                        E                         E                          F                    F(Ext.)                           1
+                             JAGJEET SINGH
+                             NAVPREET SINGH/
+  66    2303164                                                                                   C                      Ab                      Ab                       E                        Ab                          Ab                   F(Ext.)                           4
+                             LAKHVIR SINGH
+ Prepared by                                                                                                                                             Ordinance & Scheme seen, the result may be declared and published                                     Published
+
+
+
+
+ Assistant Registrar (Examination Branch)                                    Verified by Member, Examination Committee                                                   Member, Examination Committee                                                 Controller of Examinations
+
+                                                                                                                                                                                                                                                                     Seal
+
+Grade                   O                   A+           A            B+      B               C             P                   F(Int.)                 F(Ext.)                   F                                I                   Ab       E             UMC            S/US
+Qualitative                                              Very                 Above                                             Failed in Internal      Failed in External        Failed in Both Internal and                                                 Unfair         Satisfactory/Not-
+                        Outstanding         Excellent                 Good                    Average       Marginal/Pass                                                                                          Incomplete          Absent   Detained
+Meaning                                                  Good                 Average                                           Examination             Examination               External Examination                                                        Mean Case      Satisfactory
+Grade Point             10                  9            8            7       6               5             4                   0                       0                         0                                -                   -        0             -              -
+
+*Vide UGC Letter No.F.22-1/2012(AC) dated 17.08.2012
+**The computation of SGPA is done according to the guidelines given by IKGPTU, Jalandhar regarding Credit Based System and these guidelines are available at www.ptu.ac.in
+Page: 6 of 10
+                                                                              GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
+                                                                                          *An Autonomous College Under UGC Act - 1956 [2(f) and 12(B)]
+                                                                                                  Affiliated to I.K. Gujral Punjab Technical University
+
+                                                          Course: B.Tech. Branch: Mechanical Engineering Semester: 1 Scheme Code: 2018 Result Type: Regular
+
+                                                        Notification No. GNDEC/B.Tech./Reg/2241007 Dated: 07-02-2024 Examination Held in: November, 2023
+                                                                                        Sub Code (Th.)           Sub Code (Pr.)             Sub Code (Th.)              Sub Code (Th.)             Sub Code (Pr.)           Sub Code (Th.)            Sub Code (Th.)
+  Sr.          University                        Name of Candidate/                                                                                                                                                                                                                                Credits,
+                                                                                        BSC-101 (15925)         BSC-102 (15926)             BSC-103 (15927)             ESC-101 (15929)           ESC-102 (15930)           ESC-103 (15931)          HSMC-103 (15928)             SGPA**
+  No.           Roll No.                           Father's Name                                                                                                                                                                                                                                  (Earned)
+                                                                                          Credit(s) - 4           Credit(s) - 1               Credit(s) - 4               Credit(s) - 4             Credit(s) - 1             Credit(s) - 3            Credit(s) - 3
+                              PAHULDEEP SINGH/
+  67    2303165                                                                            F(Ext.)                       B+                    F(Ext.)                     F(Ext.)                     A+                           C                       B                                8
+                              SURINDER SINGH
+                              PARAS MEHTA/
+  68    2303166                                                                            F(Ext.)                       B+                    F(Ext.)                     F(Ext.)                      A                         F(Ext.)                 F(Ext.)                            2
+                              RAM PARSHAD MEHTA
+                              PARTH SHARMA/
+  69    2303167                                                                              B+                          A+                       E                           P                         A                         F(Ext.)                 F(Ext.)                            10
+                              DINESH SHARMA
+                              PIYUSH KUMAR GUPTA/
+  70    2303168                                                                              B+                          A                        B                        F(Ext.)                     A+                         F(Ext.)                 F(Ext.)                            10
+                              ROHIT GUPTA
+                              PRABHANJOT SINGH/
+  71    2303169                                                                               B                          A+                    F(Ext.)                        B                        A+                          B+                     F(Ext.)                            13
+                              GOBIND SINGH
+                              PREET KAMAL SINGH/
+  72    2303170                                                                            F(Ext.)                       A+                    F(Ext.)                     F(Ext.)                     A+                           B                     F(Ext.)                            5
+                              SUKHJINDER SINGH
+                              PRINCE KUMAR/
+  73    2303171                                                                               A                          O                        A                           A                        A+                          B+                       A               8                20
+                              HARI RANJAN SINGH
+                              PRINCE SINGH/
+  74    2303172                                                                            F(Ext.)                       B+                    F(Ext.)                     F(Ext.)                     A+                         F(Ext.)                 F(Ext.)                            2
+                              KULDEEP SINGH
+                              RAJDEEP SINGH/
+  75    2303173                                                                               B                          A                     F(Ext.)                        F                         A                         F(Ext.)                   B                                9
+                              DALVIR SINGH
+                              RAJVEER SINGH/
+  76    2303174                                                                               A                          A+                       A                           A                         O                          A+                       A               8.3              20
+                              GURDEEP SINGH
+                              RAMAN TIWARI/
+  77    2303175                                                                              B+                          A+                    F(Ext.)                        A                        A+                          A+                      B+                                16
+                              CHANDERKANT TIWARI
+ Prepared by                                                                                                                                                  Ordinance & Scheme seen, the result may be declared and published                                      Published
+
+
+
+
+ Assistant Registrar (Examination Branch)                                    Verified by Member, Examination Committee                                                         Member, Examination Committee                                                 Controller of Examinations
+
+                                                                                                                                                                                                                                                                           Seal
+
+Grade                   O                   A+            A           B+      B               C            P                      F(Int.)                     F(Ext.)                     F                             I                   Ab        E             UMC             S/US
+Qualitative                                               Very                Above                                               Failed in Internal          Failed in External          Failed in Both Internal and                                               Unfair          Satisfactory/Not-
+                        Outstanding         Excellent                 Good                    Average      Marginal/Pass                                                                                                Incomplete          Absent    Detained
+Meaning                                                   Good                Average                                             Examination                 Examination                 External Examination                                                      Mean Case       Satisfactory
+Grade Point             10                  9             8           7       6               5            4                      0                           0                           0                             -                   -         0             -               -
+
+*Vide UGC Letter No.F.22-1/2012(AC) dated 17.08.2012
+**The computation of SGPA is done according to the guidelines given by IKGPTU, Jalandhar regarding Credit Based System and these guidelines are available at www.ptu.ac.in
+Page: 7 of 10
+                                                                              GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
+                                                                                          *An Autonomous College Under UGC Act - 1956 [2(f) and 12(B)]
+                                                                                                    Affiliated to I.K. Gujral Punjab Technical University
+
+                                                          Course: B.Tech. Branch: Mechanical Engineering Semester: 1 Scheme Code: 2018 Result Type: Regular
+
+                                                        Notification No. GNDEC/B.Tech./Reg/2241007 Dated: 07-02-2024 Examination Held in: November, 2023
+                                                                                      Sub Code (Th.)            Sub Code (Pr.)             Sub Code (Th.)              Sub Code (Th.)            Sub Code (Pr.)            Sub Code (Th.)            Sub Code (Th.)
+  Sr.          University                        Name of Candidate/                                                                                                                                                                                                                               Credits,
+                                                                                      BSC-101 (15925)          BSC-102 (15926)             BSC-103 (15927)             ESC-101 (15929)          ESC-102 (15930)            ESC-103 (15931)          HSMC-103 (15928)             SGPA**
+  No.           Roll No.                           Father's Name                                                                                                                                                                                                                                 (Earned)
+                                                                                        Credit(s) - 4            Credit(s) - 1               Credit(s) - 4               Credit(s) - 4            Credit(s) - 1              Credit(s) - 3            Credit(s) - 3
+                              RAVNEET SINGH/
+  78    2303176                                                                              A                           O                       B                          B+                        A+                           A                      B+              7.4               20
+                              PRITPAL SINGH
+                              ROHIT KUMAR/
+  79    2303177                                                                           F(Ext.)                        A                    F(Ext.)                     F(Ext.)                     A+                           C                     F(Ext.)                            5
+                              VIKRAM CHAND
+                              SAGAR KUMAR/
+  80    2303178                                                                           F(Ext.)                        A                    F(Ext.)                     F(Ext.)                     A+                           P                     F(Ext.)                            5
+                              SHANKAR KUMAR
+                              SAHILPREET SINGH/
+  81    2303179                                                                           F(Ext.)                        B                       C                        F(Ext.)                     A+                           C                     F(Ext.)                            9
+                              JASWINDER SINGH
+                              SAKSHAM KAPOOR/
+  82    2303180                                                                           F(Ext.)                        O                    F(Ext.)                     F(Ext.)                      O                          B+                     F(Ext.)                            5
+                              RAJINDER KAPOOR
+                              SAMBHAV INSAN/
+  83    2303181                                                                              A                           O                      B+                          B+                         O                          A+                      B+              7.8               20
+                              RAM DEV ARORA
+                              SANTA SINGH CHANNA/
+  84    2303182                                                                              O                           O                      A+                           A                         O                           O                      A+              9.25              20
+                              SARBDEEP SINGH
+                              SATJEET SINGH/
+  85    2303183                                                                              O                           O                       O                           A                         O                          A+                      A+              9.3               20
+                              BALWINDER SINGH
+                              SAYAM/
+  86    2303184                                                                           F(Ext.)                        A                    F(Ext.)                     F(Ext.)                     A+                         F(Ext.)                 F(Ext.)                            2
+                              BALDEV SINGH
+                              SHIVAM UPADHYAY/
+  87    2303185                                                                             B+                       A+                       F(Ext.)                        B                        A+                           B                     F(Ext.)                            13
+                              BRIJ KISHORE UPADHYAY
+                              SHREYAS/
+  88    2303186                                                                             B+                       A+                          B                           B                        A+                          B+                     F(Ext.)                            17
+                              ANOOP KUMAR
+ Prepared by                                                                                                                                                 Ordinance & Scheme seen, the result may be declared and published                                      Published
+
+
+
+
+ Assistant Registrar (Examination Branch)                                    Verified by Member, Examination Committee                                                        Member, Examination Committee                                                 Controller of Examinations
+
+                                                                                                                                                                                                                                                                          Seal
+
+Grade                   O                   A+             A          B+      B               C            P                     F(Int.)                     F(Ext.)                     F                             I                   Ab        E             UMC             S/US
+Qualitative                                                Very               Above                                              Failed in Internal          Failed in External          Failed in Both Internal and                                               Unfair          Satisfactory/Not-
+                        Outstanding         Excellent                 Good                    Average      Marginal/Pass                                                                                               Incomplete          Absent    Detained
+Meaning                                                    Good               Average                                            Examination                 Examination                 External Examination                                                      Mean Case       Satisfactory
+Grade Point             10                  9              8          7       6               5            4                     0                           0                           0                             -                   -         0             -               -
+
+*Vide UGC Letter No.F.22-1/2012(AC) dated 17.08.2012
+**The computation of SGPA is done according to the guidelines given by IKGPTU, Jalandhar regarding Credit Based System and these guidelines are available at www.ptu.ac.in
+Page: 8 of 10
+                                                                               GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
+                                                                                           *An Autonomous College Under UGC Act - 1956 [2(f) and 12(B)]
+                                                                                                     Affiliated to I.K. Gujral Punjab Technical University
+
+                                                         Course: B.Tech. Branch: Mechanical Engineering Semester: 1 Scheme Code: 2018 Result Type: Regular
+
+                                                        Notification No. GNDEC/B.Tech./Reg/2241007 Dated: 07-02-2024 Examination Held in: November, 2023
+                                                                                             Sub Code (Th.)             Sub Code (Pr.)          Sub Code (Th.)           Sub Code (Th.)             Sub Code (Pr.)           Sub Code (Th.)        Sub Code (Th.)
+  Sr.          University                         Name of Candidate/                                                                                                                                                                                                                         Credits,
+                                                                                             BSC-101 (15925)           BSC-102 (15926)          BSC-103 (15927)          ESC-101 (15929)           ESC-102 (15930)           ESC-103 (15931)      HSMC-103 (15928)           SGPA**
+  No.           Roll No.                            Father's Name                                                                                                                                                                                                                           (Earned)
+                                                                                               Credit(s) - 4             Credit(s) - 1            Credit(s) - 4            Credit(s) - 4             Credit(s) - 1             Credit(s) - 3        Credit(s) - 3
+                             SHUBHKARAN SINGH HUNJAN/
+  89    2303187                                                                                      P                         A                         C                      F                         A                        C                  F(Ext.)                          13
+                             KAMALDEEP SINGH
+                             SIMARJEET SINGH/
+  90    2303188                                                                                      A                         B+                        B                      B                        A+                        A                    A+             7.35            20
+                             DILBAG SINGH
+                             SIMARPREET SINGH/
+  91    2303189                                                                                      C                         A                   F(Ext.)                   F(Ext.)                     A+                        B                  F(Ext.)                          9
+                             GURPREET SINGH
+                             SUDHANSHU KARWAL/
+  92    2303190                                                                                      A                         O                         B                      B                        A+                        A                     B             7.05            20
+                             NARESH KARWAL
+                             SUNNY SHARMA/
+  93    2303191                                                                                      B                         A+                        C                      B                        A+                        B                     B             6.1             20
+                             AJAY SHARMA
+                             TARUNJOT SINGH/
+  94    2303192                                                                                    F(Ext.)                     B                   F(Ext.)                   F(Ext.)                      A                        B                  F(Ext.)                          5
+                             MANJEET SINGH
+                             TUSHAR SINGH CHAUHAN/
+  95    2303193                                                                                      B                         A+                        B                      C                         A                        C                     A             6.2             20
+                             RAVINDER SINGH
+                             VAIBHAV KAPOOR/
+  96    2303194                                                                                     B+                         O                         B                      B                        A+                       B+                  F(Ext.)                          17
+                             PARMOD KAPOOR
+                             VARUN GILL/
+  97    2303195                                                                                    F(Ext.)                     Ab                        E                      E                         E                        F                  F(Ext.)                          0
+                             RAKESH GILL
+                             VEER VIKRAM SINGH/
+  98    2303196                                                                                      B                         A+                  F(Ext.)                   F(Ext.)                     A+                        B                  F(Ext.)                          9
+                             FATEH SINGH
+                             ARYASH/
+  99    2339619                                                                                    F(Ext.)                     Ab                        Ab                    Ab                        Ab                       Ab                  F(Ext.)                          0
+                             AMIT PAL SINGH
+ Prepared by                                                                                                                                                  Ordinance & Scheme seen, the result may be declared and published                                 Published
+
+
+
+
+ Assistant Registrar (Examination Branch)                                     Verified by Member, Examination Committee                                                       Member, Examination Committee                                             Controller of Examinations
+
+                                                                                                                                                                                                                                                                      Seal
+
+Grade                   O                   A+           A             B+      B               C               P                    F(Int.)                   F(Ext.)                  F                                I                Ab       E             UMC           S/US
+Qualitative                                              Very                  Above                                                Failed in Internal        Failed in External       Failed in Both Internal and                                              Unfair        Satisfactory/Not-
+                        Outstanding         Excellent                  Good                    Average         Marginal/Pass                                                                                            Incomplete       Absent   Detained
+Meaning                                                  Good                  Average                                              Examination               Examination              External Examination                                                     Mean Case     Satisfactory
+Grade Point             10                  9            8             7       6               5               4                    0                         0                        0                                -                -        0             -             -
+
+*Vide UGC Letter No.F.22-1/2012(AC) dated 17.08.2012
+**The computation of SGPA is done according to the guidelines given by IKGPTU, Jalandhar regarding Credit Based System and these guidelines are available at www.ptu.ac.in
+Page: 9 of 10
+                                                                              GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
+                                                                                          *An Autonomous College Under UGC Act - 1956 [2(f) and 12(B)]
+                                                                                                     Affiliated to I.K. Gujral Punjab Technical University
+
+                                                           Course: B.Tech. Branch: Mechanical Engineering Semester: 1 Scheme Code: 2018 Result Type: Regular
+
+                                                         Notification No. GNDEC/B.Tech./Reg/2241007 Dated: 07-02-2024 Examination Held in: November, 2023
+                                                                                   Sub Code (Th.)            Sub Code (Pr.)        Sub Code (Th.)         Sub Code (Th.)              Sub Code (Pr.)               Sub Code (Th.)              Sub Code (Th.)
+   Sr.           University                      Name of Candidate/                                                                                                                                                                                                                         Credits,
+                                                                                   BSC-101 (15925)          BSC-102 (15926)        BSC-103 (15927)        ESC-101 (15929)            ESC-102 (15930)               ESC-103 (15931)            HSMC-103 (15928)             SGPA**
+   No.            Roll No.                         Father's Name                                                                                                                                                                                                                           (Earned)
+                                                                                     Credit(s) - 4            Credit(s) - 1          Credit(s) - 4          Credit(s) - 4              Credit(s) - 1                 Credit(s) - 3              Credit(s) - 3
+                                GURNOOR SINGH/
+  100     2339620                                                                        C                         A                    F(Ext.)                F(Ext.)                     B+                         F(Ext.)                        C                                9
+                                GURPREET SINGH
+                                GURSEWAK SINGH/
+  101     2339621                                                                        C                         A                    F(Ext.)                F(Ext.)                     B+                         F(Ext.)                        C                                9
+                                AMARJIT SINGH
+                                JOBENPREET SINGH/
+  102     2339622                                                                        Ab                       Ab                      E                      E                          E                            Ab                         Ab                                0
+                                BALJINDER SINGH
+                                TRIPATJIT SINGH/
+  103     2339623                                                                        B                         A                    F(Ext.)                  P                          E                         F(Ext.)                        C                                12
+                                PREETPAL SINGH
+ Prepared by                                                                                                                                         Ordinance & Scheme seen, the result may be declared and published                                        Published
+
+
+
+
+ Assistant Registrar (Examination Branch)                                    Verified by Member, Examination Committee                                               Member, Examination Committee                                                    Controller of Examinations
+
+                                                                                                                                                                                                                                                                    Seal
+
+Grade                  O                    A+              A         B+      B               C            P                  F(Int.)                F(Ext.)                  F                                I                     Ab        E             UMC             S/US
+Qualitative                                                 Very              Above                                           Failed in Internal     Failed in External       Failed in Both Internal and                                                    Unfair          Satisfactory/Not-
+                       Outstanding          Excellent                 Good                    Average      Marginal/Pass                                                                                       Incomplete            Absent    Detained
+Meaning                                                     Good              Average                                         Examination            Examination              External Examination                                                           Mean Case       Satisfactory
+Grade Point            10                   9               8         7       6               5            4                  0                      0                        0                                -                     -         0             -               -
+
+*Vide UGC Letter No.F.22-1/2012(AC) dated 17.08.2012
+**The computation of SGPA is done according to the guidelines given by IKGPTU, Jalandhar regarding Credit Based System and these guidelines are available at www.ptu.ac.in
+Page: 10 of 10
+
