@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.cache_frames/
+.cache_meta/
+data/.cache_frames/
+data/.cache_meta/
+.DS_Store
+.env
+*.pkl
+!data/gender_model.pkl

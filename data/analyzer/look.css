@@ -1,0 +1,172 @@
+.stApp {
+    background: #F4F0EA;
+}
+
+[data-testid="stHeader"] {
+    background: transparent;
+}
+
+[data-testid="stMain"] h1 {
+    color: #201060;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+
+[data-testid="stMain"] h2,
+[data-testid="stMain"] h3 {
+    color: #201060;
+}
+
+section[data-testid="stSidebar"] {
+    background: #FFFDFB;
+    border-right: 1px solid #E7E0D6;
+}
+
+section[data-testid="stSidebar"] h2,
+section[data-testid="stSidebar"] h3 {
+    color: #201060;
+}
+
+section[data-testid="stSidebar"] [data-testid="stHeading"] {
+    border-left: 3px solid #D01010;
+    padding-left: 8px;
+}
+
+section[data-testid="stSidebar"] [data-testid="stWidgetLabel"] {
+    color: #201060;
+    font-weight: 650;
+}
+
+[data-testid="stCaptionContainer"] {
+    color: #5C4A42;
+}
+
+div[data-testid="stMetric"] {
+    background: #ffffff;
+    border: 1px solid #E7E0D6;
+    border-top: 3px solid #D01010;
+    border-radius: 12px;
+    padding: 0.7rem 0.9rem 0.45rem;
+    box-shadow: 0 8px 20px rgba(32, 16, 96, 0.05);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+div[data-testid="stMetric"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 24px rgba(32, 16, 96, 0.08);
+}
+
+div[data-testid="stMetricLabel"] {
+    color: #5C4A42;
+}
+
+div[data-testid="stMetricValue"] {
+    color: #201060;
+}
+
+[data-testid="stFileUploader"] {
+    background: #ffffff;
+    border-radius: 12px;
+}
+
+[data-testid="stAlert"] {
+    border-radius: 12px;
+    border: 1px solid #E7E0D6;
+}
+
+[data-testid="stDataFrame"] {
+    border: 1px solid #E7E0D6;
+    border-radius: 12px;
+    overflow: hidden;
+    background: #ffffff;
+}
+
+.st-key-campus_section {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: min(62vh, calc(100dvh - 15rem)) !important;
+    min-height: 220px !important;
+    margin: 0 0 1.25rem 0 !important;
+    padding: 0 !important;
+    gap: 0 !important;
+    overflow: hidden !important;
+    border-radius: clamp(12px, 1.6vw, 18px);
+    border: 1px solid #E7E0D6;
+}
+
+.st-key-campus_section > div,
+.st-key-campus_section [data-testid="stElementContainer"],
+.st-key-campus_section [data-testid="stImage"],
+.st-key-campus_section [data-testid="stImage"] > div {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 0;
+}
+
+.st-key-campus_section img {
+    display: block;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 100% !important;
+    object-fit: cover;
+    object-position: center 42%;
+    border-radius: 0;
+    border: 0;
+}
+
+@media (max-height: 800px) {
+    .st-key-campus_section {
+        height: calc(100dvh - 13.5rem) !important;
+        min-height: 200px !important;
+    }
+}
+
+@media (min-height: 1100px) {
+    .st-key-campus_section {
+        height: min(68vh, 760px) !important;
+    }
+}
+
+.home-card {
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.home-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 14px 28px rgba(32, 16, 96, 0.1);
+}
+
+.st-key-gndec_view_bar button {
+    transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.gndec-nav a:focus-visible,
+.st-key-gndec_view_bar button:focus-visible {
+    outline: 2px solid #201060;
+    outline-offset: 3px;
+}
+
+@media (max-width: 800px) {
+    .gndec-nav {
+        gap: 10px 14px;
+    }
+    .home-tools {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    div[data-testid="stMetric"],
+    .home-card,
+    .gndec-nav a,
+    .st-key-gndec_view_bar button {
+        transition: none;
+    }
+    div[data-testid="stMetric"]:hover,
+    .home-card:hover {
+        transform: none;
+    }
+}
