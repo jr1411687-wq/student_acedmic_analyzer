@@ -5,10 +5,9 @@ import streamlit as st
 from analyzer.constants import DATA_DIR
 from analyzer.nav import LOGO_PATH, _logo_src, page_href
 
-CAMPUS_PATH = DATA_DIR / "data_assets" / "WhatsApp Image 2026-10-21 at 6.28.58 PM.jpeg"
+CAMPUS_PATH = DATA_DIR / "collage_pix" / "WhatsApp Image 2026-10-21 at 6.28.58 PM.jpeg"
 
 TOOLS = [
-    ("Executive Dashboard", "College totals, pass and fail rates, branch and semester charts, and a PDF report."),
     ("Overall CGPA", "Credit-weighted CGPA from every semester, including an earlier branch."),
     ("At-Risk Students", "Students who need mentoring from SGPA, fails, and credits."),
     ("Subject Heatmap", "Which subjects are pulling a branch down."),

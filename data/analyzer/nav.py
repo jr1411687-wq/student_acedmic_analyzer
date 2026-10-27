@@ -9,7 +9,6 @@ from analyzer.constants import DATA_DIR
 
 PAGES = [
     "Home",
-    "Executive Dashboard",
     "Overall CGPA",
     "At-Risk Students",
     "Subject Heatmap",
@@ -18,7 +17,7 @@ PAGES = [
     "College Comparison",
 ]
 
-LOGO_PATH = DATA_DIR / "data_assets" / "Guru_Nanak_Dev_Engineering_College,_Ludhiana_logo.png"
+LOGO_PATH = DATA_DIR / "collage_pix" / "Guru_Nanak_Dev_Engineering_College,_Ludhiana_logo.png"
 
 BRANCH_VIEWS = [
     "Gender Ratio",
@@ -31,12 +30,6 @@ BRANCH_VIEWS = [
 ]
 
 FEATURE_VIEWS = {
-    "Executive Dashboard": [
-        "Branch Comparison",
-        "Semester Comparison",
-        "Subject Difficulty",
-        "Reports",
-    ],
     "Overall CGPA": [
         "Combined Overview",
         "Rank List",
@@ -53,7 +46,6 @@ FEATURE_VIEWS = {
     ],
     "Section Comparison": [
         "SGPA by Section",
-        "By Semester",
         "Pass Rate",
         "Subject Pressure",
         "Students",

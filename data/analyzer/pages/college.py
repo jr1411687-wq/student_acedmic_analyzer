@@ -90,17 +90,6 @@ def render_college_comparison_page():
                 )
                 show_chart(fig_high, use_container_width=True)
 
-            fig_box = px.box(
-                combined.dropna(subset=["SGPA"]),
-                x="Branch",
-                y="SGPA",
-                color="Branch",
-                title="SGPA Distribution by Branch",
-                points="outliers",
-            )
-            fig_box.update_layout(showlegend=False)
-            show_chart(fig_box, use_container_width=True)
-
             if "Pass Rate %" in summary.columns and summary["Pass Rate %"].notna().any():
                 fig_pass = px.bar(
                     summary.dropna(subset=["Pass Rate %"]),
@@ -119,23 +108,6 @@ def render_college_comparison_page():
         if "Gender" not in combined.columns:
             st.info("No gender data available.")
         else:
-            gender_long = summary.melt(
-                id_vars=["Branch"],
-                value_vars=["Male", "Female", "Unknown"],
-                var_name="Gender",
-                value_name="Count",
-            )
-            fig_g = px.bar(
-                gender_long,
-                x="Branch",
-                y="Count",
-                color="Gender",
-                barmode="stack",
-                title="Gender Count by Branch",
-                color_discrete_map={"Male": "#4ECDC4", "Female": "#FF6B6B", "Unknown": "#95A5A6"},
-            )
-            show_chart(fig_g, use_container_width=True)
-
             ratio_df = summary[["Branch", "Male %", "Female %"]].melt(
                 id_vars=["Branch"], var_name="Metric", value_name="Percentage"
             )
@@ -172,7 +144,7 @@ def render_college_comparison_page():
         else:
             top_n = st.slider("Show top N students (college-wide)", 5, 50, 15, key="college_top_n")
             ranked = combined.dropna(subset=["SGPA"]).sort_values("SGPA", ascending=False).head(top_n)
-            display_cols = [c for c in ["Branch", "Roll_No", "Name", "Gender", "SGPA", "Credits_Earned", "Dataset"] if c in ranked.columns]
+            display_cols = [c for c in ["Branch", "Roll_No", "Name", "Gender", "SGPA", "Credits_Earned"] if c in ranked.columns]
             st.dataframe(ranked[display_cols], use_container_width=True, hide_index=True)
 
             st.subheader("Top Performer per Branch")
@@ -185,24 +157,12 @@ def render_college_comparison_page():
             per_cols = [c for c in ["Branch", "Roll_No", "Name", "Gender", "SGPA", "Credits_Earned"] if c in per_branch.columns]
             st.dataframe(per_branch[per_cols].sort_values("SGPA", ascending=False), use_container_width=True, hide_index=True)
 
-            branch_top = st.selectbox(
-                "Browse top students for a branch",
-                sorted(combined["Branch"].unique()),
-                key="branch_top_pick",
-            )
-            branch_top_df = (
-                combined[combined["Branch"] == branch_top]
-                .dropna(subset=["SGPA"])
-                .sort_values("SGPA", ascending=False)
-                .head(10)
-            )
-            st.dataframe(branch_top_df[display_cols], use_container_width=True, hide_index=True)
-
     if inner == "Overview Table":
         st.subheader("Branch Comparison Summary")
-        st.dataframe(summary, use_container_width=True, hide_index=True)
+        overview = summary.drop(columns=["Graded", "Male:Female"], errors="ignore")
+        st.dataframe(overview, use_container_width=True, hide_index=True)
 
-        csv_bytes = summary.to_csv(index=False)
+        csv_bytes = overview.to_csv(index=False)
         st.download_button(
             "Download Branch Comparison CSV",
             data=csv_bytes,

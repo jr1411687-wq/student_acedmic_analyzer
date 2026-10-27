@@ -651,10 +651,9 @@ def render_branch_analysis_page():
             fail_rate = (fail_count / total_students * 100) if total_students > 0 else 0
     
             # Create tabs for different views
-            perf_tab1, perf_tab2, perf_tab3 = st.tabs([
+            perf_tab1, perf_tab2 = st.tabs([
                 "📊 Overview",
                 "📈 Charts",
-                "📋 Detailed Analysis",
             ])
     
             with perf_tab1:
@@ -756,70 +755,6 @@ def render_branch_analysis_page():
                     show_chart(fig_sgpa_threshold, use_container_width=True)
                 else:
                     st.info("No SGPA data available for histogram")
-    
-            with perf_tab3:
-                # Detailed Pass/Fail Analysis
-                st.subheader("📋 Detailed Pass/Fail Analysis")
-        
-                # Create detailed dataframe (only students with SGPA)
-                detail_df = filtered[filtered["SGPA"].notna()].copy()
-                if not detail_df.empty:
-                    detail_df["SGPA_Range"] = pd.cut(
-                        detail_df["SGPA"],
-                        bins=[0, 3, 4, 5, 6, 7, 8, 9, 10],
-                        labels=["0-3", "3-4", "4-5", "5-6", "6-7", "7-8", "8-9", "9-10"]
-                    )
-            
-                    # SGPA distribution table
-                    sgpa_distribution = detail_df["SGPA_Range"].value_counts().sort_index().reset_index()
-                    sgpa_distribution.columns = ["SGPA Range", "Number of Students"]
-                    sgpa_distribution["Percentage"] = (sgpa_distribution["Number of Students"] / len(detail_df) * 100).round(1)
-            
-                    st.subheader("📊 SGPA Distribution by Range")
-                    st.dataframe(sgpa_distribution, use_container_width=True, hide_index=True)
-        
-                # Performance categories
-                st.subheader("🏆 Performance Categories")
-        
-                def get_performance_category(sgpa):
-                    if pd.isna(sgpa):
-                        return "❌ No SGPA Data"
-                    elif sgpa >= 8.5:
-                        return "🌟 Excellent"
-                    elif sgpa >= 7.5:
-                        return "⭐ Very Good"
-                    elif sgpa >= 6.5:
-                        return "✅ Good"
-                    elif sgpa >= 5.0:
-                        return "📘 Satisfactory"
-                    else:
-                        return "❌ Needs Improvement"
-        
-                filtered["Performance_Category"] = filtered["SGPA"].apply(get_performance_category)
-                category_counts = filtered["Performance_Category"].value_counts()
-        
-                # Display category distribution
-                category_df = pd.DataFrame({
-                    "Category": category_counts.index,
-                    "Count": category_counts.values,
-                    "Percentage": (category_counts.values / total_students * 100).round(1)
-                })
-        
-                st.dataframe(category_df, use_container_width=True, hide_index=True)
-        
-                # Bar chart for performance categories
-                fig_categories = px.bar(
-                    category_df,
-                    x="Category",
-                    y="Count",
-                    title="Student Performance Distribution",
-                    labels={'x': 'Performance Category', 'y': 'Number of Students'},
-                    color="Category",
-                    text="Count"
-                )
-                fig_categories.update_traces(textposition='outside')
-                fig_categories.update_layout(showlegend=False)
-                show_chart(fig_categories, use_container_width=True)
 
         else:
             st.warning("No SGPA data available for performance analysis")

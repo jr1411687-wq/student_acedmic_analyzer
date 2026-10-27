@@ -14,7 +14,6 @@ from analyzer.look import apply_look
 from analyzer.nav import FEATURE_VIEWS, render_page_nav, render_view_nav, selected_page
 from analyzer.ui import mark_transition
 from analyzer.pages.home import render_home_page
-from analyzer.pages.dashboard import render_dashboard_page
 from analyzer.pages.at_risk import render_at_risk_page
 from analyzer.pages.branch import render_branch_analysis_page
 from analyzer.pages.cgpa import render_cgpa_page
@@ -32,8 +31,6 @@ mark_transition(f"{page}|{view_name or ''}")
 
 if page == "Home":
     render_home_page()
-elif page == "Executive Dashboard":
-    render_dashboard_page()
 elif page == "Overall CGPA":
     render_cgpa_page()
 elif page == "At-Risk Students":

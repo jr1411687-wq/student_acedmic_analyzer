@@ -6,7 +6,7 @@ from analyzer.analytics import _prepare_college_view, build_subject_fail_matrix
 from analyzer.catalog import _sorted_year_labels
 from analyzer.files import discover_section_list_files
 from analyzer.nav import FEATURE_VIEWS, selected_view
-from analyzer.sections import _branch_match_key, _normalize_roll, _section_roll_coverage, _section_summary, _section_summary_by_semester, attach_sections, enrich_section_map_branches, load_all_section_maps, parse_section_list_meta
+from analyzer.sections import _branch_match_key, _normalize_roll, _section_summary, attach_sections, enrich_section_map_branches, load_all_section_maps, parse_section_list_meta
 from analyzer.store import _data_mtime_signature, load_all_branch_datasets
 from analyzer.ui import kpi_cards, show_chart
 
@@ -131,16 +131,6 @@ def render_section_comparison_page():
     # Tag EVERY result row for this branch with Section via URN (all semesters)
     tagged_all = attach_sections(results_all, scoped_map, branch=branch, semester=None)
 
-    # Coverage: section-list URNs vs each result semester
-    coverage = _section_roll_coverage(scoped_map, results_all)
-    st.subheader("URN match check (section list ↔ results)")
-    st.caption(
-        f"Section list has **{len(scoped_map)} unique URNs** for {branch}. "
-        "Same URN must appear in result PDFs/CSVs to compare that student."
-    )
-    if not coverage.empty:
-        st.dataframe(coverage, use_container_width=True, hide_index=True)
-
     # Result semester filter (does NOT change section assignment)
     sem_in_results = sorted(
         {int(s) for s in pd.to_numeric(tagged_all.get("Semester"), errors="coerce").dropna().unique()}
@@ -235,56 +225,7 @@ def render_section_comparison_page():
         fig.update_traces(textposition="outside")
         show_chart(fig, use_container_width=True)
 
-        if "SGPA" in kpi_work.columns:
-            fig_box = px.box(
-                kpi_work.dropna(subset=["SGPA"]),
-                x="_Group",
-                y="SGPA",
-                color="_Group",
-                title="SGPA distribution",
-                labels={"_Group": "Section"},
-            )
-            fig_box.add_hline(y=5.0, line_dash="dash", line_color="red", annotation_text="Pass = 5.0")
-            show_chart(fig_box, use_container_width=True)
-
         st.dataframe(summary, use_container_width=True, hide_index=True)
-
-    if inner == "By Semester":
-        st.caption("Same URN keeps the same section in every semester. Below: section stats from each result file.")
-        by_sem = _section_summary_by_semester(_assign_group(work_rows), group_col="_Group")
-        if by_sem.empty:
-            st.info("No per-semester section stats available.")
-        else:
-            fig_s = px.bar(
-                by_sem.sort_values(["Semester", "Section"]),
-                x="Semester",
-                y="Avg SGPA",
-                color="Section",
-                barmode="group",
-                text="Avg SGPA",
-                title=f"{branch} — Section Avg SGPA across semesters",
-                hover_data=["Students", "Pass Rate %"],
-            )
-            fig_s.update_traces(textposition="outside")
-            show_chart(fig_s, use_container_width=True)
-
-            fig_pr = px.line(
-                by_sem.sort_values(["Semester", "Section"]),
-                x="Semester",
-                y="Pass Rate %",
-                color="Section",
-                markers=True,
-                title=f"{branch} — Section pass rate across semesters",
-            )
-            show_chart(fig_pr, use_container_width=True)
-            st.dataframe(by_sem, use_container_width=True, hide_index=True)
-            st.download_button(
-                "Download per-semester section summary",
-                data=by_sem.to_csv(index=False),
-                file_name=f"section_by_semester_{branch}.csv",
-                mime="text/csv",
-                use_container_width=True,
-            )
 
     if inner == "Pass Rate":
         fig_p = px.bar(
@@ -297,18 +238,6 @@ def render_section_comparison_page():
         )
         fig_p.update_traces(textposition="outside")
         show_chart(fig_p, use_container_width=True)
-        if "Gender" in kpi_work.columns:
-            g = kpi_work.groupby(["_Group", "Gender"]).size().reset_index(name="Count")
-            fig_g = px.bar(
-                g,
-                x="_Group",
-                y="Count",
-                color="Gender",
-                barmode="stack",
-                title="Gender mix by section",
-                labels={"_Group": "Section"},
-            )
-            show_chart(fig_g, use_container_width=True)
 
     if inner == "Subject Pressure":
         fail_src = kpi_work if sem_pick != "All" else work
@@ -370,13 +299,4 @@ def render_section_comparison_page():
             mime="text/csv",
             use_container_width=True,
         )
-
-    st.markdown("**How this works**")
-    st.markdown(
-        "- Drop a **section list PDF** into `all results/` (name contains `section list`)\n"
-        "- App **auto-parses** CRN/URN columns and Section A/B (A1/A2/…) from the PDF\n"
-        "- Each URN is matched to **University Roll No** in all result PDFs/CSVs → Branch auto-detected\n"
-        "- Same URN keeps the same section across every semester\n"
-        "- Use **By semester** to compare Section A vs B on Sem 1–4 results"
-    )
 
